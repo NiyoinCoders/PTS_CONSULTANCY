@@ -73,7 +73,6 @@ h4 {
 .section-title {
     margin: 0;
 }
-
 .section-title:after {
     content: "";
     position: relative;
